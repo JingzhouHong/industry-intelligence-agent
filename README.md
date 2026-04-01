@@ -21,8 +21,7 @@ The system then generates:
 
 ## Demo
 
-- Live App: [Add your Streamlit link here]
-- GitHub Repo: [Add your GitHub repo link here]
+- Live App: [https://industry-intelligence-agent-eyfy98th2nfnjdghbwvppv.streamlit.app/]
 
 ## What the product does
 
