@@ -1,0 +1,52 @@
+[
+  {
+    "card_type": "key_insights",
+    "title": "Key Insights",
+    "items": [
+      "The Southeast Asian e-commerce SaaS market is characterized by a tension between global scalability and the necessity for deep local customization regarding regulations and culture.",
+      "Success in the region is shifting from pure subscription models to hybrid pricing structures that align with the cash flow realities of local SMEs.",
+      "Strategic partnerships with local ecosystem players like telcos and super-apps are becoming more critical than standalone product superiority for market penetration.",
+      "Data sovereignty laws are fundamentally altering infrastructure strategies, forcing a move away from centralized cloud architectures to localized data storage."
+    ]
+  },
+  {
+    "card_type": "opportunity_areas",
+    "title": "Opportunity Areas",
+    "items": [
+      "Developing 'land-and-expand' entry strategies with localized pricing tiers denominated in local currencies rather than USD.",
+      "Creating hybrid workflow solutions that combine automated software with human support options to overcome cultural resistance to full automation.",
+      "Building specialized compliance modules that automate adherence to varying cross-border data flow and data sovereignty laws.",
+      "Forming strategic alliances with regional logistics aggregators and super-apps to bundle services and reduce customer acquisition costs.",
+      "Offering unified platforms that integrate fragmented payment gateways and simplify complex customs documentation for cross-border traders."
+    ]
+  },
+  {
+    "card_type": "entry_recommendation",
+    "title": "Entry Recommendation",
+    "items": [
+      "Proceed with market entry using a localized, partnership-driven approach rather than a standalone global rollout."
+    ]
+  },
+  {
+    "card_type": "suggested_strategies",
+    "title": "Suggested Strategies",
+    "items": [
+      "Adopt hybrid pricing models combining subscriptions with usage-based or transaction fees to align with SME cash flow realities.",
+      "Form strategic alliances with regional telcos, super-apps, and logistics aggregators to bundle services and lower acquisition costs.",
+      "Implement localized data infrastructure to ensure compliance with strict data sovereignty laws in Thailand and Indonesia.",
+      "Develop 'land-and-expand' strategies with pricing tiers denominated in local currencies instead of USD.",
+      "Create hybrid workflow solutions that integrate automated software with human support to address cultural preferences for face-to-face interaction."
+    ]
+  },
+  {
+    "card_type": "key_risks",
+    "title": "Key Risks",
+    "items": [
+      "Non-compliance with varying data sovereignty mandates leading to legal penalties or operational shutdowns.",
+      "Failure to secure local partnerships resulting in high customer acquisition costs and low market penetration.",
+      "Cultural resistance to fully self-service platforms causing low adoption rates among traditional merchants.",
+      "Regulatory fragmentation across ASEAN nations complicating cross-border data flows despite harmonization efforts.",
+      "Intense competition from both global giants and agile local incumbents with established networks."
+    ]
+  }
+]
